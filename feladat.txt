@@ -1,0 +1,12 @@
+Utasítások
+A mellékelt szöveges fájlból készíts egy weboldalt!
+
+A szöveghez használd a megfelelő, tanult HTML tag-eket.
+
+Az oldalt formázd meg:
+Douglas Adams neve legyen félkövér
+A regény címe (Galaxis útikalauz stopposoknak) legyen dőlt
+A kép legyen 50% széles, középre igazított
+A három különböző sorszámozatlan lista lista-jelölője legyen különböző.
+Az oldalnak adjunk egy háttérszínt. A bekezdések és a címsorok betűszíne legyen különböző!
+Az utolsó címsor (Vásárlás), de csak az utolsó, legyen aláhúzott.
